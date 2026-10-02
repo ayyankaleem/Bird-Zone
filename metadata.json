@@ -1,0 +1,6 @@
+{
+  "name": "Bird Zone Wapda Town",
+  "description": "Premier pet and bird shop in Wapda Town, Lahore. Exotic birds, cages, premium feed, and accessories with local delivery and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
